@@ -1,5 +1,5 @@
 # SheHacks+ VII Hacker Olympics One-Page Website
-Static website for hackers to follow during the Intro to Web Dev workshop during Hacker Olympics at SheHacks+ 7. [View the workshop slides here](https://docs.google.com/presentation/d/1CqEBWbCGEDyOdYSZ7hfuh43KtINEXdpqvUwWp55zFow/edit?usp=sharing). This repo contains folders for each of the three parts of the workshop, giving hackers outlined HTML templates for a one-page resume site or a site to document all of your learnings from the Hacker Olympics Experience.
+Static website for hackers to follow during the Intro to Web Dev workshop during Hacker Olympics at SheHacks+ 7. [View the workshop slides here](https://docs.google.com/presentation/d/14J08NPfnHxgteCLmHMV4ia5UVOH7LrR9_EpkwcvoUhM/edit?usp=sharing). This repo contains folders for each of the three parts of the workshop, giving hackers outlined HTML templates for a one-page resume site or a site to document all of your learnings from the Hacker Olympics Experience.
 
 # Part One: File Structure & Adding Text 
 1. Creates basic HTML doc structure
